@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on small projects to learn<br>🤝 I’m looking for help with making clean code<br>🌱 I’m currently learning python and c/c++
+🔭 I’m currently working on small projects to improve my coding skills<br>🤝 I’m looking for help with making clean code<br>🌱 I’m currently learning python and c/c++
 
 
 # 💻 Tech Stack:
